@@ -1,0 +1,71 @@
+GDPR Information/Privacy Statement
+
+** Note: I am not a lawyer, I'm just some random person, so keep that in mind.  I deeply value information security and data privacy for myself, and I will do my best to protect those for you.  That said, I have no money to spend on this, so I am relying on the security of Google Drive to protect your (and my) data.  The information provided here is for your own information and is provided out of a desire for transparency.  I offer no guarantee or warranty or any other sort of legally-binding promise, but I do give you my personal word that I will do my best to abide by the information laid out below.  If this project gets traction and I end up having this statement translated to other languages, then I make absolutely no guarantees of the accuracy of that translation.  It will probably be done by a volunteer and translation errors are to be expected.  This original English copy is the only authoritative copy.  PS: please don't sue me, I have no money. - Christopher Stockus **
+
+I am following the GDPR checklist located here (https://web.archive.org/web/20210122015744/https://gdpr.eu/checklist/) as a basis for this document.  Again, that does not imply a legal guarantee of GDPR compliance; you assume all risk and waive any liability related to this "product" (it's not really a product, it's just a survey).
+
+**** Lawful basis and transparency
+	*** Information audit:
+		- I do not currently have any of your information.  
+		- I will only have the information that you directly provide to me in the fields in the survey form.  
+		- All information provided in fields marked "For Viewing Today" is obviously accessible to me and may be accessible to anyone else who may end up helping me directly with this project.  It may also be shared with third parties (like journalists or researchers or people like that), published publically by me (I am considering setting up a little webpage where people can view everyone's responses), or processed to be used in some other way by me.
+		- All information provided in fields marked "For Historical Record" is again accessible to me and may be accessible to anyone else who may end up helping me directly with this project.  It may also be shared with third parties (like historians), published publically, or processed to be used in some other way by me, BUT ONLY AFTER JANUARY 1, 2050, at the earliest.
+		- In the case that this data is shared with anyone else, including public publishing, I will make every effort to alert you to this fact, using both the email you provided in the survey and through published statements on the web.
+		- IF YOU INCLUDE ANY EVIDENCE OF A VIOLENT CRIME, INCLUDING, INTER ALIA, RAPE, MURDER, HUMAN TRAFFICKING, WAR CRIMES, I RESERVE THE RIGHT TO SHARE THAT INFORMATION WITH RELEVANT LAW ENFORCEMENT AUTHORITIES, WITH OR WITHOUT NOTICE TO YOU.  Feel free to confess to non-violent crimes, like smoking weed or shoplifting.  I won't snitch on that.
+		- NO ONE ELSE WILL BE PROVIDED ACCESS TO THIS INFORMATION WITHOUT YOU BEING INFORMED AND ONLY IN LINE WITH THE INFORMATION IN THIS DOCUMENT.
+	*** Legal Justification:
+		- I'm collecting this information primarily as a source for historical information and to inform and entertain the public today (at least, I find these kinds of things information and entertaining).
+		- Lawfulness of Processing under Article 6:
+			a. By submitting the survey, you are giving your consent for any and all information that you provide to be used in a manner consistent with this statement.
+			b. I will email you a copy of the information you provided to the email you include in the survey.  There might be other stuff that Google Forms does or something that qualifies under this section.  I don't know, I'm not a lawyer.  You accept any risk incurred because I'm not a lawyer.
+			c. This is probably not applicable, but who knows.
+			d. Probably not applicable, I don't know.
+			e. I'd consider the release of the survey information ON OR AFTER JANUARY 1, 2050 to be in the public interest.  Who knows if the EU agrees.
+			f. I guess that this is all in my legitimate interests.
+	*** Provide clear information and justification:
+		- You're reading it.  Feel free to contact me via my publically-accessible contact information, if you want clarification or something.
+
+**** Data Security
+	*** Take data protection into account:
+		- I am definitely doing that, to the best of my limited abilities.  I am currently writing this statement before I even start working on the survey form or the backend.
+	*** Encrypt, pseudonymize, or anonymize data, whenever possible:
+		- I will definitely do this.  I will exclusively include personally identifying information when I think it is necessary, and I will require that any future partners do the same.
+		- You also have the ability to encrypt, pseudonymize, or anonymize your own data when you submit it.  No one is forcing you to include your real name, if you don't feel comfortable doing it.  You could put all of your answers in a secret code, if you want to.
+	*** Create an internal security policy:
+		- This will probably be the closest thing I'll have to an internal security policy.  But I think it's pretty good.
+	*** Do a Data Protection Impact Assessment:
+		- I'm sorry, that sounds like a lot of work and it looks pretty complicated.  I have considered the potential impact of my collection, processing, and use of your data, but I'm not going to do a whole form.  You accept all risks incurred from me not being a lawyer and being lazy.
+	*** Have a process to notify authorities and data subjects in the event of a breach:
+		- If I become aware of a data breach, I will endeavor to contact all relevant authorities and to alert you via the email address that you provide in the survey.
+
+**** Accountability and Governance
+	*** Designate a GDPR compliance officer:
+		- I am guaranteeing compliance with the GDPR, so there will be no compliance officer.  I will be the one who addresses data security and privacy.
+	*** Sign a data processing agreement with any third parties:
+		- I promise I will do this, and I will require that the terms of that agreement be at least as restrictive as the ones in this statement.
+	*** Appoint a representative in the EU:
+		- No.  I guess, if I ever move to the EU, I can be the representative in the EU.  But for now, I will not have a representative in the EU, nor do I make an legally binding commitment to comply with any EU law or regulation.
+	*** Appoint a Data Protection Officer:
+		- A Data Proection Officer sounds scary and official.  I'm not going to do that.  I will direct you to the section about the GDPR compliance officer for information about who will address data security and privacy (hint: it's me).
+
+**** Privacy Rights
+	*** It's easy for subjects to request and see information I have:
+		- It won't be, I'm sorry.  I will send you a copy of all the information I have about you (your answers to the survey) when you first fill out the survey, but I have no resources to set up a system to verify your identity before I give you your information, and I don't want to risk giving private information to the incorrect person.
+	*** It's easy for subjects to correct or update information:
+		- Same thing as before.  Once you've submitted the survey, there is no way for you to correct the information.  You could always submit a second survey and reference the fact that you had done one earlier.  I probably won't do anything with that, but third parties I may work with (e.g. journalists or historians) may.
+	*** It's easy for subjects to have information deleted:
+		- Nope.  I can't verify your identity, so once the information is submitted, you cannot request it be deleted.
+	*** It's easy for subjects to request that you stop processing their data:
+		- Nope.  I can't verify your identity, so you can't do this.
+	*** It's easy for subjects to receive a copy of their data they can use with another company:
+		- I'm not a company, but whatever.  I will send you a copy of your answers to the email you provide in the survey.  It will just be the text of your answers, so you can do with it whatever you want.
+	*** It's easy for subjects to object to the processing of their data:
+		- Sure, you can make any objections you want using my publically-available contact information.  I make no promise to do anything with or as a result of your objection.  Please don't say mean things to me.
+	*** Have a procedure to protect subjects' rights when using an automated system:
+		- I'm not quite sure what this all entails.  I reiterate all of the points in this statements.  They also apply to automated systems.  If the system goes Skynet on me, though, I can't make any promises.  You assume all risks incurred because I am not a lawyer, I am lazy, and I am not the Terminator.
+
+PLEASE DON'T SUE ME.  I AM POOR.
+I RESERVE THE RIGHT TO DELETE ANY DATA SUBMITTED THAT I DEEM TO BE A PRANK, OFFENSIVE, OR VIOLENT.
+
+Take care,
+Christopher Stockus
