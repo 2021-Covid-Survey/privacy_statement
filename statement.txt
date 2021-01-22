@@ -8,8 +8,8 @@ I am following the GDPR checklist located here (https://web.archive.org/web/2021
 	*** Information audit:
 		- I do not currently have any of your information.  
 		- I will only have the information that you directly provide to me in the fields in the survey form.  
-		- All information provided in fields marked "For Viewing Today" is obviously accessible to me and may be accessible to anyone else who may end up helping me directly with this project.  It may also be shared with third parties (like journalists or researchers or people like that), published publically by me (I am considering setting up a little webpage where people can view everyone's responses), or processed to be used in some other way by me.
-		- All information provided in fields marked "For Historical Record" is again accessible to me and may be accessible to anyone else who may end up helping me directly with this project.  It may also be shared with third parties (like historians), published publically, or processed to be used in some other way by me, BUT ONLY AFTER JANUARY 1, 2050, at the earliest.
+		- All information provided in fields marked "FOR TODAY" is obviously accessible to me and may be accessible to anyone else who may end up helping me directly with this project.  It may also be shared with third parties (like journalists or researchers or people like that), published publicly by me (I am considering setting up a little webpage where people can view everyone's responses), or processed to be used in some other way by me.
+		- All information provided in fields marked "FOR HISTORY" is again accessible to me and may be accessible to anyone else who may end up helping me directly with this project.  It may also be shared with third parties (like historians), published publicly, or processed to be used in some other way by me, BUT ONLY AFTER JANUARY 1, 2050, at the earliest.
 		- In the case that this data is shared with anyone else, including public publishing, I will make every effort to alert you to this fact, using both the email you provided in the survey and through published statements on the web.
 		- IF YOU INCLUDE ANY EVIDENCE OF A VIOLENT CRIME, INCLUDING, INTER ALIA, RAPE, MURDER, HUMAN TRAFFICKING, WAR CRIMES, I RESERVE THE RIGHT TO SHARE THAT INFORMATION WITH RELEVANT LAW ENFORCEMENT AUTHORITIES, WITH OR WITHOUT NOTICE TO YOU.  Feel free to confess to non-violent crimes, like smoking weed or shoplifting.  I won't snitch on that.
 		- NO ONE ELSE WILL BE PROVIDED ACCESS TO THIS INFORMATION WITHOUT YOU BEING INFORMED AND ONLY IN LINE WITH THE INFORMATION IN THIS DOCUMENT.
@@ -23,7 +23,7 @@ I am following the GDPR checklist located here (https://web.archive.org/web/2021
 			e. I'd consider the release of the survey information ON OR AFTER JANUARY 1, 2050 to be in the public interest.  Who knows if the EU agrees.
 			f. I guess that this is all in my legitimate interests.
 	*** Provide clear information and justification:
-		- You're reading it.  Feel free to contact me via my publically-accessible contact information, if you want clarification or something.
+		- You're reading it.  Feel free to contact me via my publicly-accessible contact information, if you want clarification or something.
 
 **** Data Security
 	*** Take data protection into account:
@@ -60,7 +60,7 @@ I am following the GDPR checklist located here (https://web.archive.org/web/2021
 	*** It's easy for subjects to receive a copy of their data they can use with another company:
 		- I'm not a company, but whatever.  I will send you a copy of your answers to the email you provide in the survey.  It will just be the text of your answers, so you can do with it whatever you want.
 	*** It's easy for subjects to object to the processing of their data:
-		- Sure, you can make any objections you want using my publically-available contact information.  I make no promise to do anything with or as a result of your objection.  Please don't say mean things to me.
+		- Sure, you can make any objections you want using my publicly-available contact information.  I make no promise to do anything with or as a result of your objection.  Please don't say mean things to me.
 	*** Have a procedure to protect subjects' rights when using an automated system:
 		- I'm not quite sure what this all entails.  I reiterate all of the points in this statements.  They also apply to automated systems.  If the system goes Skynet on me, though, I can't make any promises.  You assume all risks incurred because I am not a lawyer, I am lazy, and I am not the Terminator.
 
